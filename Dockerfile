@@ -26,3 +26,7 @@ RUN mvn clean package
 # Default command to run the application (adjust this as per your app)
 CMD ["java", "-jar", "target/your-app.jar"]
 
+
+
+
+# its only test purpose
